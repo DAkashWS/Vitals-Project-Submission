@@ -9,6 +9,7 @@ VITALS is offline software that helps astronauts on long missions spot health ch
 | Document | Description |
 |---|---|
 | [Project Report (PDF)](Vitals_Project_Report.pdf) | Problem, solution, scientific principle, system architecture, testing and results, limitations and team credits |
+| [Presentation (PDF)](Vitals_Presentation.pdf) | The VITALS pitch presentation |
 | [Hardware Photos (PDF)](Vitals_Hardware_Photos.pdf) | Photos of the VITALS sensor device |
 
 ## Live website
